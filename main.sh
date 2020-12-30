@@ -14,7 +14,7 @@ YSSS~S%SSSSSP  YSSS~S%SSSSSP  .SS    SS.
      SP             SP               SP   
      Y              Y                Y    
                                           "
-echo -e "\e[34mTermux To Nethunter v1.0 by @Huntmix\e[39m"
+echo -e "\e[34mTermux To Nethunter v1.0 by @TechComSpot\e[39m"
 sleep 3
 echo "Installing environment..."
 sleep 1
@@ -37,7 +37,7 @@ YSSS~S%SSSSSP  YSSS~S%SSSSSP  .SS    SS.
      SP             SP               SP   
      Y              Y                Y    
                                           "
-echo -e "\e[34mTermux To Nethunter v1.0 by @Huntmix\e[39m"
+echo -e "\e[34mTermux To Nethunter v1.0 by @TechComSpot\e[39m"
 echo "Deleting previous chroot.."
 sudo chmod +x /data/local/nhsystem/
 sudo rm -rf /data/local/nhsystem/kali-arm64/
@@ -145,5 +145,5 @@ cd $HOME
 echo "sudo /data/data/com.offsec.nethunter/files/scripts/bootkali_bash" > nh
 chmod +x nh
 sleep 8 
-echo -e "Script maded by @Huntmix (TG) \nDonate: https://huntmix.ru/rekv.html \nProblems? Pm me or open issues!"
+echo -e "Script maded by @TechComSpot (TCS) \nYoutube: https://yotube.com/c/TechComSpot \nLike it? Comment and subscribe!"
 ./nh
